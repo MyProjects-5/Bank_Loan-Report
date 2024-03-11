@@ -14,19 +14,19 @@ it is essential to monitor the Month-to-Date (MTD) Loan Applications and track c
 -Average Debt-to-income Ratio
     Evaluating the average DTI for our borrowers helps us gauge their financial health.
 # Summary Dashboard
-  Good Loan V/S Bad Loan
-Good Loan Application Percentage
-Good Loan Applications
-Good Loan Funded Amount
-Good Loan Total Received Amount
-
-Bad Loan Application Percentage
-Bad Loan Applications
-Bad Loan Funded Amount
-Bad Loan Total Received Amount 
+  Good Loan V/S Bad Loan                    
+Good Loan Application Percentage                 
+Good Loan Applications                   
+Good Loan Funded Amount               
+Good Loan Total Received Amount          
+                       
+Bad Loan Application Percentage        
+Bad Loan Applications         
+Bad Loan Funded Amount        
+Bad Loan Total Received Amount      
 
 # Overview dashboard
-  Charts
+  Charts :-
 
 1. Monthly Trends by Issue Date (Line Chart): To identify seasonality and long-term trends in lending Activities.
 2. Regional Analysis by State (Filled Map): To identify regions with significant lending activity and assess regional disparities.
