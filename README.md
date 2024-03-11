@@ -1,12 +1,12 @@
 # Bank Loan Report 
-Bank Loan Report Using Microsoft Excel.
+Bank Loan Report Using Microsoft Excel.     
 I am very excited to share my Microsoft Excel Project.
 # Objective
-The Bank Loan Report project dives deep into monitoring and evaluating a bank's lending activities, providing comprehensive insights into loan- related metrics.
+The Bank Loan Report project dives deep into monitoring and evaluating a bank's lending activities, providing comprehensive insights into loan- related metrics.      
 This Excel dashboard aims to facilitate data-driven decision-making and strategic planning.
 # Key performance indicators
 -Total Loan Application
-    we need to calculate the total number of loan applications received during a specified period. Additionally, Charts![image](https://github.com/MyProjects-5/Bank_Loan_Report/assets/140932670/6358cb48-7964-4c44-910d-bca2fa329239)
+    we need to calculate the total number of loan applications received during a specified period. Additionally, Charts
 it is essential to monitor the Month-to-Date (MTD) Loan Applications and track changes Month-over-Month (MoM).
 -Total Funded Amount
 -Total Amount Received
