@@ -12,15 +12,15 @@ This Excel dashboard aims to facilitate data-driven decision-making and strategi
 ### 📌 Summary Dashboard :-
 - Good Loan V/S Bad Loan :-
             
-Good Loan Application Percentage                 
-Good Loan Applications                   
-Good Loan Funded Amount               
-Good Loan Total Received Amount          
+1. Good Loan Application Percentage                 
+2. Good Loan Applications                   
+3. Good Loan Funded Amount               
+4. Good Loan Total Received Amount          
                        
-Bad Loan Application Percentage        
-Bad Loan Applications         
-Bad Loan Funded Amount        
-Bad Loan Total Received Amount      
+5. Bad Loan Application Percentage        
+6. Bad Loan Applications         
+7. Bad Loan Funded Amount        
+8. Bad Loan Total Received Amount      
 
 ### 📌 Overview dashboard :-
 - Charts :-
