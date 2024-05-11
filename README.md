@@ -1,4 +1,4 @@
-# Bank Loan Repor    
+# Bank Loan Report    
 I am very excited to share my Microsoft Excel Project.
 ## Objective :-
 The Bank Loan Report project dives deep into monitoring and evaluating a bank's lending activities, providing comprehensive insights into loan- related metrics.      
