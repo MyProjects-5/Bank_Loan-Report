@@ -1,17 +1,16 @@
-# Bank Loan Report 
-Bank Loan Report Using Microsoft Excel.     
+# Bank Loan Report    
 I am very excited to share my Microsoft Excel Project.
-# Objective
+## Objective :-
 The Bank Loan Report project dives deep into monitoring and evaluating a bank's lending activities, providing comprehensive insights into loan- related metrics.      
 This Excel dashboard aims to facilitate data-driven decision-making and strategic planning.
-# Key performance indicators
--Total Loan Application :- we need to calculate the total number of loan applications received during a specified period. Additionally, Charts it is essential to monitor the Month-to-Date (MTD) Loan Applications and track changes Month-over-Month (MoM).         
--Total Funded Amount             
--Total Amount Received           
--Average Interest Rate                    
--Average Debt-to-income Ratio :- Evaluating the average DTI for our borrowers helps us gauge their financial health.                 
-# Summary Dashboard
-  Good Loan V/S Bad Loan  
+### 📌 Key performance indicators :-
+- Total Loan Application :- we need to calculate the total number of loan applications received during a specified period. Additionally, Charts it is essential to monitor the Month-to-Date (MTD) Loan Applications and track changes Month-over-Month (MoM).         
+- Total Funded Amount             
+- Total Amount Received           
+- Average Interest Rate                    
+- Average Debt-to-income Ratio :- Evaluating the average DTI for our borrowers helps us gauge their financial health.                 
+### 📌 Summary Dashboard :-
+- Good Loan V/S Bad Loan :-
             
 Good Loan Application Percentage                 
 Good Loan Applications                   
@@ -23,8 +22,8 @@ Bad Loan Applications
 Bad Loan Funded Amount        
 Bad Loan Total Received Amount      
 
-# Overview dashboard
-  Charts :-
+### 📌 Overview dashboard :-
+- Charts :-
 
 1. Monthly Trends by Issue Date (Line Chart) :- To identify seasonality and long-term trends in lending Activities.
 2. Regional Analysis by State (Filled Map) :- To identify regions with significant lending activity and assess regional disparities.
@@ -33,8 +32,7 @@ Bad Loan Total Received Amount
 5. Loan Purpose Breakdown (Bar Chart) :- Will provide a visual breakdown of loan metrics based on the stated purposes of loans, aiding in the understanding of the primary reasons borrowers seek financing.
 6. Home Ownership Analysis (Tree Map) :- For a hierarchical view of how home ownership impacts loan applications and disbursements.
 
-# Screenshot of the Analysis 
-# OUTPUT
+# Screenshot of the Analysis :-
 ![Screenshot 2024-03-11 195240](https://github.com/MyProjects-5/Bank_Loan_Report/assets/140932670/8977de17-df0e-4571-8e79-50ad78b46845)
 ![Screenshot 2024-03-11 195433](https://github.com/MyProjects-5/Bank_Loan_Report/assets/140932670/1cadba3f-85e0-4acb-bbe8-8117f2893261)
 
