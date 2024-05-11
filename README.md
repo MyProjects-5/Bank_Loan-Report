@@ -3,7 +3,7 @@ I am very excited to share my Microsoft Excel Project.
 ## Objective :-
 The Bank Loan Report project dives deep into monitoring and evaluating a bank's lending activities, providing comprehensive insights into loan- related metrics.      
 This Excel dashboard aims to facilitate data-driven decision-making and strategic planning.
-### 📌 Key performance indicators :-
+### 📌 Key performance Indicators :-
 - Total Loan Application :- we need to calculate the total number of loan applications received during a specified period. Additionally, Charts it is essential to monitor the Month-to-Date (MTD) Loan Applications and track changes Month-over-Month (MoM).         
 - Total Funded Amount             
 - Total Amount Received           
@@ -22,7 +22,7 @@ This Excel dashboard aims to facilitate data-driven decision-making and strategi
 7. Bad Loan Funded Amount        
 8. Bad Loan Total Received Amount      
 
-### 📌 Overview dashboard :-
+### 📌 Overview Dashboard :-
 - Charts :-
 
 1. Monthly Trends by Issue Date (Line Chart) :- To identify seasonality and long-term trends in lending Activities.
