@@ -32,6 +32,9 @@ This Excel dashboard aims to facilitate data-driven decision-making and strategi
 5. Loan Purpose Breakdown (Bar Chart) :- Will provide a visual breakdown of loan metrics based on the stated purposes of loans, aiding in the understanding of the primary reasons borrowers seek financing.
 6. Home Ownership Analysis (Tree Map) :- For a hierarchical view of how home ownership impacts loan applications and disbursements.
 
+## DashBoard Vedio :-
+https://github.com/MyProjects-5/Bank_Loan-Report/assets/140932670/22f052c3-0d26-4d9f-aede-0249ffcd7268
+
 ## Screenshot of the Analysis :-
 ![Screenshot 2024-03-11 195240](https://github.com/MyProjects-5/Bank_Loan_Report/assets/140932670/8977de17-df0e-4571-8e79-50ad78b46845)
 ![Screenshot 2024-03-11 195433](https://github.com/MyProjects-5/Bank_Loan_Report/assets/140932670/1cadba3f-85e0-4acb-bbe8-8117f2893261)
