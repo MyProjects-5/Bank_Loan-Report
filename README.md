@@ -1,4 +1,4 @@
-# Bank Loan Report    
+# Bank Loan Repor  
 I am very excited to share my Microsoft Excel Project.
 
 ## Objective :-
